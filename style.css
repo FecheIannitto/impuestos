@@ -1,0 +1,39 @@
+* {
+    overflow: hidden;
+}
+
+
+
+.container {
+    background-color: blueviolet;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+
+}
+
+.barra {
+    background-color: black;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    
+}
+
+.tgi {
+    background-color: blue;
+    position: relative;
+    top: 10%;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.datos {
+    color: white;
+}
